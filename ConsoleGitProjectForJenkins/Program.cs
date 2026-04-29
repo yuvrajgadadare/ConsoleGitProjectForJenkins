@@ -11,7 +11,7 @@ namespace ConsoleGitProjectForJenkins
         public void Add()
         {
             int a = 10, b = 20, c;
-            c = a + b;
+            c = a + b+d;
             Console.WriteLine("Add="+c);
         }
         static void Main(string[] args)
