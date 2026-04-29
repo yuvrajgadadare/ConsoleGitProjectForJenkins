@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGitProjectForJenkins", "ConsoleGitProjectForJenkins\ConsoleGitProjectForJenkins.csproj", "{0D63D64B-22BE-4464-8DBF-02126E281D24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D63D64B-22BE-4464-8DBF-02126E281D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D63D64B-22BE-4464-8DBF-02126E281D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D63D64B-22BE-4464-8DBF-02126E281D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D63D64B-22BE-4464-8DBF-02126E281D24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68D6ABF4-D496-4FE4-9C49-44530DE6308D}
+	EndGlobalSection
+EndGlobal
